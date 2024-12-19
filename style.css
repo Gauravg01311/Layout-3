@@ -105,3 +105,6 @@ font-weight: bold;
     justify-content: center;
 
 }
+.box-3 h1{
+    text-align: left; padding-left: 2%;
+} 

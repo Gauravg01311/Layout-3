@@ -18,14 +18,23 @@ body{
         margin-bottom: 4%;
     }
     .container-3 #box-31{
-        height: 20vh;
+        height: 50vh;
     }
     .if{
         margin-left: 0%;
+        margin-bottom: 2%;
     }
     #box-31{
         height: 50vh;
     }
+    .if input{
+        color: brown;
+     font-weight: bold;
+     width: 80%;
+     }
+     #but{
+        padding-bottom: 2%;
+     }
 }
 .container-2,.container-3{
     box-sizing: border-box;
